@@ -1,3 +1,12 @@
-<?php include_once 'funtions/header.php'?>
+<?php include_once 'functions/header.php'; ?>
 
-<?php?>
+<div id="teste"></div>
+<script>
+var testar= document.getElementById('teste');
+testar.innerHtml="oi"
+document.
+
+
+</script>
+
+<?php include_once 'functions/footer.php'; ?>
