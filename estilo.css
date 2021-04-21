@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0;
+   
+}
+a{text-decoration: none;}
+body{
+    font-family: arial;
+}
+.menu{
+    background-color: aquamarine;
+    position: relative;
+    width: 250px;
+    margin-top: 95px;
+}
+.menu ul{
+    position: absolute;
+    list-style: none;
+}
+
